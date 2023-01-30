@@ -29,3 +29,13 @@ Spain | Its hot | 7 days
 Belgium | its beautiful | 5 days
 Austria | its fun skiing | 7 days
 Morocco | its hot | 7 days
+
+-------
+## funny quotes
+
+> I'm not superstitious i am a little stitious
+> _Michael Scott (The office)_
+
+> Someone asked me, if I were stranded on a desert island what book would I bring: How to Build a Boat.
+> _Steven Wright_
+
