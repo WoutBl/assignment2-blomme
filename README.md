@@ -42,6 +42,11 @@ Morocco | its hot | 7 days
 -------
 ## Code Snippet
 
+> I am working on a WordPress site that uses a gravity form. The gravity form has 20 questions, after a user fills it out they press submit and then a page loads saying the form has been submitted. The form submits to an AWS API that checks the form and returns a percent correct to the gravity form inside the admin panel. I am trying to get that result to display on the website so that the user can see. I don't know how to get the response. When i try to access the AWS endpoint through curl or postman, I get forbidden errors. I am using the endpoint and the API key listed in the gravity forms settings
+
+[Click Me for stackoverflow question](https://stackoverflow.com/questions/75288759/wordpress-gravity-form-response-issue)
+
+
 ```WordPress
 <h3>All Post Meta</h3>
 
