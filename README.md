@@ -70,3 +70,4 @@ Morocco | its hot | 7 days
     }
 ?>
 ```
+[Click me for Codesnippet](https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
