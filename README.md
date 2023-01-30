@@ -63,4 +63,5 @@ Morocco | its hot | 7 days
         echo "<br /><br />";
 
     }
-?>```
+?>
+```
