@@ -39,3 +39,28 @@ Morocco | its hot | 7 days
 > Someone asked me, if I were stranded on a desert island what book would I bring: How to Build a Boat.
 > _Steven Wright_
 
+-------
+## Code Snippet
+
+```WordPress
+<h3>All Post Meta</h3>
+
+<?php 
+
+  // Get all the data 
+  $getPostCustom = get_post_custom(); 
+
+    foreach($getPostCustom as $name=>$value) {
+
+        echo "<strong>" . $name . "</strong>"."  =>  ";
+
+        foreach ($value as $nameAr=>$valueAr) {
+                echo "<br />";
+                echo $nameAr."  =>  ";
+                echo var_dump($valueAr);
+        }
+
+        echo "<br /><br />";
+
+    }
+?>```
